@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "node build.js",
+    "build:prod": "node build-prod.js"
+  },
+  "devDependencies": {
+    "electron": "*",
+    "html-minifier-terser": "^7.2.0",
+    "javascript-obfuscator": "^5.4.1",
+    "terser": "^5.46.1"
+  }
+}
