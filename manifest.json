@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "metadata": {
+    "appmode": "static",
+    "primary_document": "index.html",
+    "content_category": "site"
+  },
+  "files": {
+    "index.html": {
+      "checksum": "66062932eaf63881f4b9d53911b60b6d"
+    }
+  }
+}
